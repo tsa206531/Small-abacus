@@ -1,0 +1,13 @@
+{
+  "name": "vue-calculator",
+  "version": "1.0.0",
+  "description": "Simple Vue.js calculator app",
+  "main": "index.html",
+  "scripts": {
+    "serve": "python3 -m http.server 8080",
+    "start": "python3 -m http.server 8080"
+  },
+  "keywords": ["vue", "calculator", "static"],
+  "author": "",
+  "license": "MIT"
+}
